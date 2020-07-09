@@ -1,2 +1,2 @@
 # route
-for route ass
+for route assignment
